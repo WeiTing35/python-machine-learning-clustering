@@ -10,8 +10,8 @@ We can use datasets from lots of website ,and the data can be loaded into the mo
 
 1.Car Evaluation Dataset
 
-Dataset: http://archive.ics.uci.edu/ml/datasets/Car+Evaluation
-Abstract: Derived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.
+* Dataset: http://archive.ics.uci.edu/ml/datasets/Car+Evaluation
+* Abstract: Derived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.
 2.Creativity Dataset
 
 Dataset: http://archive.ics.uci.edu/ml/datasets/Car+Evaluation
