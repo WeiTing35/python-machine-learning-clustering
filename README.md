@@ -4,8 +4,7 @@ For the beginners who would like to learn ML/DL.
 python-machine-learning-Classification
 For the beginners who would like to learn ML/DL.
 
-In this example,we can learn how to use sklearn to classificate the dataset.
-
+In this example,we can learn how to use scikit-learn to have some cluster analysis. Clustering is a kind of Unsupervised learning which infers a function to describe hidden structure from “unlabeled” data .
 
 1.BLE RSSI Dataset for Indoor localization and Navigation Data Set 
 
