@@ -13,6 +13,12 @@ In this example,we can learn how to use scikit-learn to have some cluster analys
 
 ![Alt text](iBeacon_Layout.jpg)
 
+I would like to use this dataset to locate the region we are. Of course we can use some algorithm like UWB(Ultra-Wide-Band) to get the target. But we can do this by ML ,it might be a good issue to discuss.
+
 2.Creativity Dataset
 
 * Dataset: http://archive.ics.uci.edu/ml/datasets/BLE+RSSI+Dataset+for+Indoor+localization+and+Navigation
+
+In this part , I will set a broken iBeacon that will randomly sent wrong RSSI values. It will influence the accuracy of the system . By using ML , I would like to test whether the result will be stable or not.
+
+![Alt text](new.jpg)
