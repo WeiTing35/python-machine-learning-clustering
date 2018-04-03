@@ -1,6 +1,8 @@
 # python-machine-learning-clustering
 For the beginners who would like to learn ML/DL.
 
+For more details : https://medium.com/@tim24514/python-machine-learning-clustering-67ce72943242
+
 python-machine-learning-Classification
 For the beginners who would like to learn ML/DL.
 
